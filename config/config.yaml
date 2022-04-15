@@ -1,0 +1,6 @@
+data_source: https://archive.ics.uci.edu/ml/machine-learning-databases/00193/CTG.xls
+
+artifacts:
+  artifacts_url:  artifacts
+  raw_local_dir:  raw_local_dir
+  raw_local_file: data.csv
